@@ -1,11 +1,5 @@
-This Git is a test
+#PYTHON -  Machine Learning
 
-Commands:
+* This repository contains all my codes from the **Machine** **Learning** study in python.
 
-git add .
-
-git commit -m "message here"
-
-git remote add origin (link)
-
-git push           (-u origin master if is the first push)
+## NOT COMPLETE YET
