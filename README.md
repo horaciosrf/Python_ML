@@ -8,4 +8,4 @@ git commit -m "message here"
 
 git remote add origin (link)
 
-git push           (-u origin main if is the first push)
+git push           (-u origin master if is the first push)
